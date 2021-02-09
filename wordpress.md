@@ -2,6 +2,8 @@
 
 e-commerce plugin woocomerce
 
+Frontity
+
 
 
 - How to Create a Custom WordPress Theme - Full Course
